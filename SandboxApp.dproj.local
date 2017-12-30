@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.112,=C:\Users\DARTHCODER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.859,=C:\Users\DARTHCODER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.655,=C:\Users\DARTHCODER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.05.01 12:31:55.764,=C:\Users\DARTHCODER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.05.01 12:32:25.176,D:\Berlin\Sources\SandboxApp\Unit1.pas=C:\Users\DARTHCODER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.05.01 12:32:25.176,D:\Berlin\Sources\SandboxApp\Unit1.fmx=C:\Users\DARTHCODER\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017.05.01 12:32:30.509,D:\Berlin\Sources\SandboxApp\SandboxApp.dproj=C:\Users\DARTHCODER\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017.05.01 12:32:40.295,=D:\Berlin\Sources\SandboxApp\Unit2.pas</Transaction>
+    <Transaction>2017.05.01 12:32:45.922,=D:\Berlin\Sources\SandboxApp\Unit3.pas</Transaction>
+    <Transaction>2017.05.01 12:32:52.848,=D:\Berlin\Sources\SandboxApp\Unit3.pas</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
